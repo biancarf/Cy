@@ -21,13 +21,13 @@ Se houver algum problema em instalar as dependências, seguir os três passos a 
 
 Neste projeto, você pode executar testes nos modos interativo e headless nas viewports de desktop e tablet.
 
-### Modo Headless
+### Modo Headless 
 
 Execute `npm test` (ou `npm t` para abreviar) para executar todos os testes no modo headless usando uma janela de visualização de desktop.
 
 Execute `npm run test:tablet` para executar os testes apropriados no modo headless usando uma janela de visualização de tablet.
 
-### Modo interativo
+### Modo interativo 
 
 Execute `npm run cy:open` para abrir **Cypress App** para executar testes em modo interativo usando uma janela de visualização na área de trabalho.
 
